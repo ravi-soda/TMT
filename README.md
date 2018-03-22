@@ -4,3 +4,5 @@ https://jsfiddle.net/hafLaj9t/
 http://jsfiddle.net/charlietfl/pCsZ3/
 
 https://stackoverflow.com/questions/42802161/daterangepicker-select-range-within-one-month
+
+https://www.codeproject.com/Articles/194916/Enhancing-HTML-tables-using-a-JQuery-DataTables-pl (Row grouping)
